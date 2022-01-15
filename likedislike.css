@@ -1,0 +1,35 @@
+div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    padding-top: 150px;
+    border: 1px solid black;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: lightblue;
+}
+#like{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
+#like:hover{
+    font-size: xx-large;
+    color: blue;
+}
+#dislike{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    
+}
+#dislike:hover{
+    font-size: xx-large;
+    color: blue;
+}
+#count{
+    width: 80px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
